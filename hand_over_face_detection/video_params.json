@@ -1,0 +1,33 @@
+{
+  "params": [
+    {
+      "vid_path": "/media/Data/Other/amd_project/datasets//BAUM1s/s012/S012_027.mp4",
+      "video_name": "S012_027",
+      "sfn": 0,
+      "ffn": 1,
+      "fi": [
+        0,
+        0
+      ],
+      "ai": [
+        480,
+        854
+      ]
+    },
+
+    {
+      "vid_path": "/media/Data/Other/amd_project/datasets//BAUM1s/s007/S007_016.mp4",
+      "video_name": "S007_016",
+      "sfn": 0,
+      "ffn": 1,
+      "fi": [
+        0,
+        0
+      ],
+      "ai": [
+        480,
+        854
+      ]
+    }
+  ]
+}

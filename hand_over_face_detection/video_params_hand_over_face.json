@@ -1,0 +1,704 @@
+{
+    "params": [
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s002/S002_018.mp4",
+            "video_name": "S002_018",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s003/S003_001.mp4",
+            "video_name": "S003_001",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s004/S004_003.mp4",
+            "video_name": "S004_003",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s006/S006_019.mp4",
+            "video_name": "S006_019",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s006/S006_053.mp4",
+            "video_name": "S006_053",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s007/S007_004.mp4",
+            "video_name": "S007_004",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s007/S007_005.mp4",
+            "video_name": "S007_005",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s007/S007_006.mp4",
+            "video_name": "S007_006",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s007/S007_007.mp4",
+            "video_name": "S007_007",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_014.mp4",
+            "video_name": "S007_014",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_015.mp4",
+            "video_name": "S007_015",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_016.mp4",
+            "video_name": "S007_016",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_035.mp4",
+            "video_name": "S007_035",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_036.mp4",
+            "video_name": "S007_036",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_037.mp4",
+            "video_name": "S007_037",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_039.mp4",
+            "video_name": "S007_039",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s007/S007_051.mp4",
+            "video_name": "S007_051",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s008/S008_003.mp4",
+            "video_name": "S008_003",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s008/S008_012.mp4",
+            "video_name": "S008_012",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s008/S008_013.mp4",
+            "video_name": "S008_013",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s008/S008_015.mp4",
+            "video_name": "S008_015",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s008/S008_016.mp4",
+            "video_name": "S008_016",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_018.mp4",
+            "video_name": "S008_018",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_019.mp4",
+            "video_name": "S008_019",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_028.mp4",
+            "video_name": "S008_028",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_037.mp4",
+            "video_name": "S008_037",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_038.mp4",
+            "video_name": "S008_038",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_041.mp4",
+            "video_name": "S008_041",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s008/S008_050.mp4",
+            "video_name": "S008_050",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s009/S009_004.mp4",
+            "video_name": "S009_004",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s009/S009_027.mp4",
+            "video_name": "S009_027",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s010/S010_013.mp4",
+            "video_name": "S010_013",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s010/S010_017.mp4",
+            "video_name": "S010_017",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s010/S010_030.mp4",
+            "video_name": "S010_030",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s010/S010_043.mp4",
+            "video_name": "S010_043",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s012/S012_003.mp4",
+            "video_name": "S012_003",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s012/S012_027.mp4",
+            "video_name": "S012_027",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s012/S012_043.mp4",
+            "video_name": "S012_043",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s014/S014_012.mp4",
+            "video_name": "S014_012",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s015/S015_003.mp4",
+            "video_name": "S015_003",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_009.mp4",
+            "video_name": "S015_009",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_012.mp4",
+            "video_name": "S015_012",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_015.mp4",
+            "video_name": "S015_015",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_019.mp4",
+            "video_name": "S015_019",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_023.mp4",
+            "video_name": "S015_023",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_024.mp4",
+            "video_name": "S015_024",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_035.mp4",
+            "video_name": "S015_035",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_037.mp4",
+            "video_name": "S015_037",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1s/s015/S015_041.mp4",
+            "video_name": "S015_041",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        },
+        {
+            "vid_path": "/media/Data/Other/amd_project/datasets/BAUM1a/s022/S022_008.mp4",
+            "video_name": "S022_008",
+            "sfn": 0,
+            "ffn": 1,
+            "fi": [
+                0,
+                0
+            ],
+            "ai": [
+                480,
+                854
+            ]
+        }
+    ]
+}
